@@ -16,7 +16,7 @@ public class SeasonExample {
       case "february":
         season = Season.WINTER;
         System.out.println(season);
-        break;
+        break; 
       case "march":
       case "april":
       case "may":
